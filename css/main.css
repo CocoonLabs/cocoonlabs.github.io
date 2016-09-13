@@ -1,0 +1,104 @@
+/*
+html, body {
+	height: 100%;
+}
+*/
+
+.absolute {
+	position: absolute;
+}
+
+.home-container {
+	height: auto;
+	background: #1e1e1e;
+	padding-top: 60px;
+	padding-bottom: 160px;
+}
+
+.home-container .sub-container .logo-image img {
+	position: absolute;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+	max-width: 300px;
+	top: 100px;
+}
+
+.svg-wrapper {
+  height: 60px;
+	margin: 0 auto;
+  position: relative;
+  
+  transform: translateY(-50%);
+  width: 320px;
+}
+
+.shape {
+  fill: transparent;
+  stroke-dasharray: 140 540;
+  stroke-dashoffset: -474;
+  stroke-width: 5px;
+  stroke: #19f6e8;
+	cursor: pointer;
+}
+
+.text {
+  color: #fff;
+	font-weight: lighter;
+  font-size: 8pt;
+  letter-spacing: 4px;
+  line-height: 32px;
+  position: relative;
+  top: -48px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+@keyframes draw {
+  0% {
+    stroke-dasharray: 140 540;
+    stroke-dashoffset: -474;
+    stroke-width: 5px;
+  }
+  100% {
+    stroke-dasharray: 760;
+    stroke-dashoffset: 0;
+    stroke-width: 1px;
+  }
+}
+
+@keyframes redraw {
+  0% {
+    stroke-dasharray: 760;
+    stroke-dashoffset: 0;
+    stroke-width: 1px;
+  }
+	100% {
+    stroke-dasharray: 140 540;
+    stroke-dashoffset: -474;
+    stroke-width: 5px;
+  }
+  
+}
+
+.test {
+  -webkit-animation: 0.5s draw linear forwards;
+  animation: 0.5s draw linear forwards;
+}
+
+.undraw {
+  -webkit-animation: 0.5s redraw linear forwards;
+  animation: 0.5s redraw linear forwards;
+}
+
+#about-container {
+	height: auto;
+	background: #e3e3e3;
+	padding-top: 60px;
+	padding-bottom: 160px;
+}
+
+.custom-link ,.custom-link:hover {
+	text-decoration: none;
+}
