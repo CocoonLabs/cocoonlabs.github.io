@@ -25,7 +25,7 @@ html, body {
 	margin-bottom: 100px;
 }
 
-.home-container .sub-container .logo-image img {
+.home-container .sub-container .logo-image .logo-svg {
 	margin: 0 auto;
 	max-width: 320px;
 }
@@ -106,3 +106,31 @@ html, body {
 .custom-link ,.custom-link:hover {
 	text-decoration: none;
 }
+
+
+.reanimate {
+			-webkit-animation: dash 2s .5s linear forwards;    
+		}
+  
+    @-webkit-keyframes dash {
+            0% {
+                display: inline;
+                stroke-dashoffset: 800;
+								fill: rgba(255,255,255,0)
+            }
+			
+						50%  {
+											fill: rgba(255,255,255,0.8)
+									}
+			
+						85%  {
+								fill: rgba(255,255,255,0.8)
+						}
+			
+            100% {    
+                    
+                	fill: #ffffff;  
+									stroke-dashoffset: 0;
+                }
+
+        }

@@ -94,6 +94,10 @@
         display: inline;
         -webkit-animation: dash 2s .5s linear forwards;    
     }
+		
+		.reanimate {
+			-webkit-animation: dash 2s .5s linear forwards;    
+		}
   
     @-webkit-keyframes dash {
             0% {
