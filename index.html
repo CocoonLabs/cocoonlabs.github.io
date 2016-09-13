@@ -15,34 +15,34 @@
     <link rel="stylesheet" href="css/main.css" />
     <script src="js/jquery-1.12.3.min.js" />
     <script src="js/bootstrap.js"></script>
-		<script async src="js/SmoothScroll.js"></script>
+    <script async src="js/SmoothScroll.js"></script>
   </head>
   <body>
-		<div class="main-container">
-			<div class="home-container clearfix">
-				<div class="sub-container col-sm-12">
-					<div class="logo-image col-sm-12">
-						<img class="img-responsive" src="images/full-logo.svg">
-					</div>
-					<div class="svg-wrapper">
-						<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
-							<rect class="shape" height="60" width="320" />
-						</svg>
-						 <a href="#about-container" class="custom-link">
-							 <div class="text text-center">Morphing soon</div>
-						</a>
-						 
-					</div>
-				</div>
-			</div>
-		</div>
-	</body>
+    <div class="main-container">
+      <div class="home-container clearfix">
+        <div class="sub-container col-sm-12">
+          <div class="logo-image col-sm-12">
+            <img class="img-responsive" src="images/full-logo.svg">
+          </div>
+          <div class="svg-wrapper">
+            <svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
+              <rect class="shape" height="60" width="320" />
+            </svg>
+            <a href="#about-container" class="custom-link">
+              <div class="text text-center">Morphing soon</div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
 </html>
 <script>
-	$(document).ready(function(){
-		$('.svg-wrapper').hover(
-       function(){ $(this).find('.shape').removeClass('undraw').addClass('test') },
-       function(){ $(this).find('.shape').addClass('undraw').removeClass('test') }
-		)	
-	});
+$(document).ready(function() {
+  $('.svg-wrapper').hover(
+    function(){ $(this).find('.shape').removeClass('undraw').addClass('test') },
+    function(){ $(this).find('.shape').addClass('undraw').removeClass('test') }
+  );
+});
+
 </script>
