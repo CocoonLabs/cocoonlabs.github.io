@@ -13,17 +13,16 @@ html, body {
 .home-container {
 	height: 100%;
 	background: #1e1e1e;
-	padding-top: 60px;
+	padding-top: 80px;
+}
+
+.home-container .sub-container .logo-image {
+	margin-bottom: 100px;
 }
 
 .home-container .sub-container .logo-image img {
-	position: absolute;
-margin-left: auto;
-margin-right: auto;
-left: 0;
-right: 0;
-	max-width: 300px;
-	top: 100px;
+	margin: 0 auto;
+	max-width: 320px;
 }
 
 .svg-wrapper {
