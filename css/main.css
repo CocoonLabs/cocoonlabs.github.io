@@ -17,6 +17,10 @@ html, body {
   align-items: center;
 }
 
+.home-container .sub-container {
+	margin: 0 auto;
+}
+
 .home-container .sub-container .logo-image {
 	margin-bottom: 100px;
 }
