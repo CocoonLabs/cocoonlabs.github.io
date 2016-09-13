@@ -1,18 +1,19 @@
-/*
 html, body {
 	height: 100%;
 }
-*/
 
 .absolute {
 	position: absolute;
 }
 
+.main-container {
+	height: 100%;
+}
+
 .home-container {
-	height: auto;
+	height: 100%;
 	background: #1e1e1e;
 	padding-top: 60px;
-	padding-bottom: 160px;
 }
 
 .home-container .sub-container .logo-image img {
