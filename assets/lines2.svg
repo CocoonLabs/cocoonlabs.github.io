@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1366px" height="400px" viewBox="0 0 1366 400" style="enable-background:new 0 0 1366 400;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{display:inline;opacity:0.8;fill:#F2F2F2;}
+	.st1{opacity:0.8;}
+	
+	.st3{display:inline;opacity:0.9;fill:#F2F2F2;}
+	.st4{display:none;}
+]]>
+</style>
+<g id="Block_x5F_02">
+	<g id="Divider" class="st4">
+		<polygon class="st0" points="98,-101.795 98,-19.114 627.983,-59.628 		"/>
+		<polygon class="st3" points="1156,-101.795 1156,-20.768 626.017,-59.628 		"/>
+	</g>
+	<g>
+		<g class="st1">
+			<polygon class="st2" points="510.201,-146.973 20.687,171.051 287.746,650.6 409.287,425.708 858.243,686.979 990.532,334.76 
+				1368.384,238.85 1188.14,80.103 1229.479,-227.47 981.438,-174.554 958.287,58.88 749.505,-150.577 628.291,-35.65 			"/>
+			<polyline class="st2" points="214.414,-118.255 57.066,472.836 409.287,425.708 495.274,640.679 1065.771,472.836 
+				1282.396,572.88 1244.362,25.271 958.287,58.88 1282.396,-287 940.097,-283.693 1155.894,295.072 427.476,242.157 
+				192.663,256.626 287.746,-1.511 			"/>
+			<polyline class="st2" points="1321.256,374.131 890.488,218.18 635.005,572.88 427.476,242.157 139.747,506.735 192.663,256.626 
+				-19,-9.299 287.746,-1.511 97.58,-134.867 192.663,256.626 391.097,460.435 883.053,218.18 1199.715,136.326 1045.929,-48.879 
+				1041.675,-118.401 			"/>
+		</g>
+	</g>
+</g>
+<style>
+  .st2{
+    fill:none;
+    opacity: .5;
+    stroke:#A8AAAD;
+    stroke-miterlimit:10;
+    stroke-dasharray: 500; 
+    stroke-dashoffset: 1500;
+    animation: draw 7s infinite;
+  }
+  
+  @keyframes draw {
+  0%, 100% {
+    stroke-dashoffset: 1500;
+    stroke:#A8AAAD;
+  }
+  
+  50% {
+    stroke-dashoffset: 0;
+    stroke:#11a090;
+  }
+}
+
+</style>
+</svg>
