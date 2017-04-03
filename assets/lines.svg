@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1366px" height="800px" viewBox="0 0 1366 800" style="enable-background:new 0 0 1366 800;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{opacity:0.8;}
+	.st1{fill:none;stroke:#A8AAAD;stroke-miterlimit:10;}
+]]>
+</style>
+<g id="Block_x5F_02">
+	<g>
+		<g class="st0">
+			<polygon class="st1" points="542.706,98.486 124.999,369.859 352.882,779.062 456.594,587.16 839.692,810.105 952.576,509.553 
+				1275,427.712 1121.196,292.252 1156.473,29.798 944.815,74.951 925.061,274.143 746.905,95.411 643.472,193.479 			">
+              <animate begin="shape.click" id="animation-to-click" begin="indefinite" fill="freeze" attributeName="points" dur="500ms"  to="0,0 300,0 200,200 00,200" />
+            </polygon>
+			<polyline class="st1" points="290.308,122.991 156.042,627.375 456.594,587.16 529.968,770.596 1016.779,627.375 
+				1201.626,712.743 1169.172,245.464 925.061,274.143 1201.626,-21 909.539,-18.178 1093.681,475.688 472.115,430.534 
+				271.747,442.881 352.882,222.61 			"/>
+			<polyline class="st1" points="1234.785,543.149 867.208,410.074 649.201,712.743 472.115,430.534 226.594,656.302 
+				271.747,442.881 91.133,215.965 352.882,222.61 190.612,108.816 271.747,442.881 441.072,616.792 860.863,410.074 
+				1131.073,340.228 999.846,182.19 996.217,122.867 			"/>
+		</g>
+	</g>
+</g>
+</svg>
